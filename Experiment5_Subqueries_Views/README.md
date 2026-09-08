@@ -211,7 +211,7 @@ WHERE
 
 ## Grade
 
-<img width="1099" height="63" alt="DBMS 4" src="https://github.com/user-attachments/assets/b731477f-3ef4-4f42-a8c8-fd1869e2fb8f" />
+<img width="1087" height="68" alt="Screenshot 2026-09-08 143001" src="https://github.com/user-attachments/assets/e002470f-dedf-4596-8e3e-56ed43a8a891" />
 
 
 ## RESULT
