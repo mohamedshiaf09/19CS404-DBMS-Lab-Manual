@@ -181,7 +181,8 @@ Having MIN(age)<25;
 
 ## Grade
 
-<img width="1097" height="82" alt="DBMS 3" src="https://github.com/user-attachments/assets/02eb149d-6133-4d6a-a253-2716f2ded2a9" />
+<img width="1067" height="62" alt="Screenshot 2026-09-08 142951" src="https://github.com/user-attachments/assets/13692099-6bcb-461e-83cd-7c7b5862f8a2" />
+
 
 
 ## RESULT
