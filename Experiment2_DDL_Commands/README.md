@@ -263,7 +263,8 @@ foreign key (EmployeeID) references Employees(EmployeeID));
 
 ## Grade
 
-<img width="1098" height="58" alt="DBMS 1" src="https://github.com/user-attachments/assets/dfb3fc02-da36-4b80-8921-3825d26413ab" />
+<img width="1112" height="66" alt="Screenshot 2026-09-08 142923" src="https://github.com/user-attachments/assets/872719ac-c1dc-4fe6-b0f6-1903869e5fca" />
+
 
 
 ## RESULT
