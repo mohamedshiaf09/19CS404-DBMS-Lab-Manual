@@ -190,8 +190,8 @@ where GRADE >=2;
 <img width="693" height="534" alt="image" src="https://github.com/user-attachments/assets/4bc3fa7c-8139-429a-b9cb-b883857a54b7" />
 
 ## Grade:
+<img width="1088" height="71" alt="Screenshot 2026-09-08 142937" src="https://github.com/user-attachments/assets/9fa955bf-1dba-44f6-84ac-ca9b987c5728" />
 
-<img width="1096" height="60" alt="DBMS 2" src="https://github.com/user-attachments/assets/100d0f2d-46b7-4379-a727-d0d23e793d41" />
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
